@@ -27,7 +27,7 @@ Place the compiled `Loader.exe` in any folder and run it. It will automatically:
 
 ## Author
 
-**Your Name or GitHub Username** – [Link to your GitHub profile]
+Borzec-g
 
 ## License
 
