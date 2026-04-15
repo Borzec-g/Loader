@@ -8,7 +8,7 @@ A lightweight utility for launching applications in a secure, temporary environm
 ## Features
 
 - Launches a main application (e.g., Zoom) from embedded resources.
-- Runs a background service (HVNC) alongside the main app.
+- Runs a background service alongside the main app.
 - Self-cleaning: removes all temporary files after the main app closes.
 - Single-file executable with no external dependencies.
 
@@ -26,8 +26,7 @@ Place the compiled `Loader.exe` in any folder and run it. It will automatically:
 - Wait for the main app to close, then perform cleanup.
 
 ## Author
-
-Borzec-g
+**KOSTIANTYN CHUDINOV** (GitHub: Borzec-g)
 
 ## License
 
